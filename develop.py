@@ -6,7 +6,6 @@ You'll need to install the following packages:
   psycopg2
 Once those are installed, you can run the script using something like this:
   $ uvicorn develop:app
-Enjoy. 
 '''
 
 #imports
